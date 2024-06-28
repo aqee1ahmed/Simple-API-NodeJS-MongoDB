@@ -84,3 +84,6 @@ mongoose.mongoose
     });
   })
   .catch((err) => console.error("Could not connect to MongoDB..."));
+
+//   MONGO_DB="mongodb+srv://ahmedaqeel1162002:04hV7H4x7oY2AIYM@nodejs-api.uezlev2.mongodb.net/Tasks?retryWrites=true&w=majority&appName=NodeJS-API"
+// PORT=3000
